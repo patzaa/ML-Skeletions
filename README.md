@@ -14,4 +14,5 @@ Tensors, Autograd, Dataset Class, Dataloader, and Optimization
 
 ### 4. ML Algorithms 
 PCA, Multiple linear Regression
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patzaa/Pytorch-ML/blob/main/Machine_Learning_Basics.ipynb) 
