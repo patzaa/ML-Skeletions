@@ -1,4 +1,4 @@
-# Pytorch-ML
+# Machine Learning Skeletons 
 This Repository includes Skeletons for building almost any ML application in NLP &amp; vision
 
 ### 1. Basic Pytorch Conceps
