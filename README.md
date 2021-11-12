@@ -12,5 +12,5 @@ Tensors, Autograd, Dataset Class, Dataloader, and Optimization
 ### 3. Skeleton NLP 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patzaa/Pytorch-ML/blob/main/NLP_Skeleton.ipynb) 
 
-## 4. ML Algorithms 
+### 4. ML Algorithms 
 PCA, Multiple linear Regression
